@@ -1,7 +1,7 @@
 # dubbodemo
-bubob学习demo
+dubbo学习demo
 
-buddo-api作为api通过给dubbo-provider和dubbo-consumer使用   
+dubbo-api作为api通过给dubbo-provider和dubbo-consumer使用   
 dubbo-provider作为提供者   
 dubbo-consumer作为消费者   
 
